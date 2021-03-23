@@ -7,9 +7,9 @@
   "author": "raccoondev85",
   "license": "MIT",
   "peerDependencies": {
-    "@ionic-native/core": "^4.2.0",
+    "@ionic-native/core": "^5.31.1",
     "@angular/core": "*",
-    "rxjs": "^5.0.1"
+    "rxjs": "^6.6.3"
   },
   "repository": {
     "type": "git",
